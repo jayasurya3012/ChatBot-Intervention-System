@@ -9,3 +9,4 @@ streamlit==1.23.1
 streamlit_chat==0.0.2.2
 transformers==4.24.0
 vaderSentiment==3.3.2
+tensorflow==2.8.0
