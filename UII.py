@@ -7,7 +7,6 @@ from transformers import pipeline,Conversation
 import numpy as np
 import datetime
 from PIL import Image
-import cv2
 from pytesseract import pytesseract
 import matplotlib.pyplot as plt
 import numpy as np
